@@ -43,7 +43,8 @@ C'est un réseau social interne pour les employés de Groupomania. Le but de cet
 * HTML
 * Scss
 * NodeJS 14.17.6
-* Express 
-* @vue/cli@4.5.14
+* Express 4.17.1
+* Vue 2.6.11
+* Vue/cli 4.5.14
 * MySQL 8.0.21
 * Javascript
